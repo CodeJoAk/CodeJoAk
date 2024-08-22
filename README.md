@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello, My name is Aakarshan Kumar. 👋
 
 <!--
 **CodeJoAk/CodeJoAk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am learning Computer Science as well as how I can use GitHub. Hopefully, it all makes sense.
